@@ -25,3 +25,6 @@ Live site: https://d6ddzpbx8wvuh.cloudfront.net/
 https://d6ddzpbx8wvuh.cloudfront.net/
 
 ## Screenshots
+
+![screenshot1](https://github.com/user-attachments/assets/4e609be9-1781-47da-8d74-4665a04c901f)
+
