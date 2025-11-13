@@ -1,6 +1,6 @@
 # AWS-project-1
 
-Live site:
+Live site: https://d6ddzpbx8wvuh.cloudfront.net/
 
 ## Tech stack 
 - HTML, CSS, JSS
@@ -22,5 +22,6 @@ Live site:
 5. Point to S3 origin
 
 ## Live Demo
+https://d6ddzpbx8wvuh.cloudfront.net/
 
 ## Screenshots
